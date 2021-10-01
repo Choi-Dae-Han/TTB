@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8232639733752741250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8232639733752741253}
+  - component: {fileID: 8232639733752741252}
+  m_Layer: 0
+  m_Name: WarehouseStage 23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8232639733752741253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8232639733752741250}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8232639733752741252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8232639733752741250}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 794f70e7c07e9814f8425fe3ef4482b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fLimitTime: 40
+  Opened: 0
+  GotCoins: 0
+  NextStage: {fileID: 2739881500054748127, guid: cf7f6296ca8a103489f26efa45f92f56,
+    type: 3}
+  GroundToCreate: {fileID: 8929468877462590665, guid: 3788de53a6c05f4488b173ebf27bd475,
+    type: 3}
+  BackGroundObj: {fileID: 3389877743292993240, guid: c52ef821b90345d40b34318038d076d7,
+    type: 3}
+  BackGroundSprite: {fileID: 21300000, guid: 98c700f7aeac03a4189890f014040b6c, type: 3}
+  DeadLine: {fileID: 3317533110808821143, guid: 3f33e2dd5466ae64da099fec85a8d57e,
+    type: 3}
+  DeadLinePos: {x: 690, y: 303}
+  DeadLineSize: {x: 3000, y: 1500}
+  CommonGroundTr: {fileID: 0}
+  ObjectsTr: {fileID: 0}
+  SpecialGroundTr: {fileID: 0}
+  GroundTR:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  DeadLineTR: {fileID: 0}
+  Objects:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

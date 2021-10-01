@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2321843339481635706, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -4119098633302612391, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -5289150689307946710, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: 5427519208488661623, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -527624351703087600, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -5037419810449809271, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: 5011789339766843200, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -7869049519058384768, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -4416803136263028469, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: 749690419860724048, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: -6642785372415729631, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+    - {fileID: 2800000, guid: dbc573de22a4e4c4c957662bcd159c06, type: 3}
+    - {fileID: 2800000, guid: 5d047593882123c4eae1f6d9e6b4508c, type: 3}
+    - {fileID: 2800000, guid: 87acf81ef5f44cf48b55850a19aadde8, type: 3}
+    - {fileID: 2800000, guid: e009db6640584dc488dd869a31126df0, type: 3}
+    - {fileID: 2800000, guid: ec8737698a528504b9609fcb91acea60, type: 3}
+    - {fileID: 2800000, guid: dac73751691270e4c8139ddba9cc48ec, type: 3}
+    - {fileID: 2800000, guid: c0437211211e58c41bb1a160ddc6dd53, type: 3}
+    - {fileID: 2800000, guid: 4bfc3c43603040049baccb504d3dcb27, type: 3}
+    - {fileID: 2800000, guid: 0faf3126faf263a4b9ce188dac1b65ef, type: 3}
+    - {fileID: 2800000, guid: 8b05cb7efba1c1e4fab8c463a221903f, type: 3}
+    - {fileID: 2800000, guid: bb8dfcd263ad4eb383a33d74a720be6f, type: 3}
+    - {fileID: 2800000, guid: a651d720dd6fbfc4ca8ec055d04ef2f6, type: 3}
+    totalSpriteSurfaceArea: 382274
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a651d720dd6fbfc4ca8ec055d04ef2f6, type: 3}
+  - {fileID: 21300000, guid: c0437211211e58c41bb1a160ddc6dd53, type: 3}
+  - {fileID: 21300000, guid: dac73751691270e4c8139ddba9cc48ec, type: 3}
+  - {fileID: 21300000, guid: bb8dfcd263ad4eb383a33d74a720be6f, type: 3}
+  - {fileID: 21300000, guid: 4bfc3c43603040049baccb504d3dcb27, type: 3}
+  - {fileID: 21300000, guid: 5d047593882123c4eae1f6d9e6b4508c, type: 3}
+  - {fileID: 21300000, guid: 0faf3126faf263a4b9ce188dac1b65ef, type: 3}
+  - {fileID: 21300000, guid: e009db6640584dc488dd869a31126df0, type: 3}
+  - {fileID: -4119098633302612391, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: 2321843339481635706, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: 5427519208488661623, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -5289150689307946710, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -5037419810449809271, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -527624351703087600, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -7869049519058384768, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: 5011789339766843200, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: 749690419860724048, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -4416803136263028469, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: -6642785372415729631, guid: 9e9ed99772a772b4bae2ec6b35b5b9a0, type: 3}
+  - {fileID: 21300000, guid: ec8737698a528504b9609fcb91acea60, type: 3}
+  - {fileID: 21300000, guid: 87acf81ef5f44cf48b55850a19aadde8, type: 3}
+  - {fileID: 21300000, guid: 8b05cb7efba1c1e4fab8c463a221903f, type: 3}
+  - {fileID: 21300000, guid: dbc573de22a4e4c4c957662bcd159c06, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - X
+  - Image_Sound
+  - Having
+  - UIBackGround_01
+  - Lock
+  - AbilityUIPannel
+  - TalkBox
+  - AbilityUI
+  - css_sprites (22)_1
+  - css_sprites (22)_0
+  - css_sprites (22)_3
+  - css_sprites (22)_2
+  - css_sprites (22)_5
+  - css_sprites (22)_4
+  - css_sprites (22)_7
+  - css_sprites (22)_6
+  - css_sprites (22)_9
+  - css_sprites (22)_8
+  - css_sprites (22)_10
+  - Check
+  - AbilityUIBox
+  - UIBackGround
+  - Arrow
+  m_Tag: UI
+  m_IsVariant: 0
